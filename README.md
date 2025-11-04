@@ -11,6 +11,8 @@ At its core, Shout bridges the gap between creation and community. It enables ar
 - Gain actionable insights into their audience through built-in analytics, and<br>
 - Earn revenue transparently through integrated ticket sales and on-demand payouts via Stripe Connect.<br>
 
+![Изображение](/images/frame_3.png)<br>
+
 For fans, Shout offers a discovery-driven, immersive experience where they can:<br>
 - Explore emerging and independent artists across genres and geographies,<br>
 - Follow their favorite creators to receive real-time updates on new music and events,<br>
@@ -18,10 +20,14 @@ For fans, Shout offers a discovery-driven, immersive experience where they can:<
 - Build a personal library of favorite tracks and past purchases, and<br>
 - Engage directly with artists—transforming passive listening into active participation.<br>
 
+![Изображение](/images/frame_4.png)<br>
+
 Unlike traditional streaming or ticketing platforms, Shout prioritizes human connection over virality. It fosters a fair, ethical, and sustainable ecosystem where:<br>
 - Artists retain full ownership of their content and audience,<br>
 - Fans become genuine supporters rather than data points, and<br>
 - Every transaction strengthens the direct artist-fan relationship.<br>
+
+![Изображение](/images/frame_5.png)<br>
 
 Built with privacy, transparency, and scalability in mind, Shout is more than an app—it’s a movement to democratize music by putting creative control and economic power back into the hands of those who make and love it.
 
@@ -29,6 +35,8 @@ Shout — это цифровая экосистема нового поколе
 - самовыражения,<br>
 - построения лояльного сообщества,<br>
 - монетизации таланта без зависимости от лейблов или агрегаторов.<br>
+
+![Изображение](/images/frame_6.png)<br>
 
 Shout не просто платформа для прослушивания музыки — это интерактивное пространство, где творцы и слушатели становятся партнёрами в культурном и экономическом обмене.
 
@@ -40,6 +48,8 @@ Shout не просто платформа для прослушивания м�
 - Невозможность монетизировать контент напрямую.<br>
 - Зависимость от сторонних платформ с высокими комиссиями.<br>
 - Отсутствие аналитики по аудитории.<br>
+
+![Изображение](/images/frame_7.png)<br>
 
 Как Shout помогает:<br>
 - Профиль артиста как цифровое портфолио: фото, биография, жанры, соцсети.<br>
