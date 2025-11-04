@@ -1,7 +1,7 @@
 # Shout
 Shout is a next-generation mobile platform designed to empower independent musical artists and connect them directly with their fans—without intermediaries, algorithms, or gatekeepers.
 
-![Изображение](/images/frame.png)<br>
+![Изображение](/images/frame_1.png)<br>
 
 At its core, Shout bridges the gap between creation and community. It enables artists to:<br>
 - Showcase their music and personal brand through customizable profiles,<br>
